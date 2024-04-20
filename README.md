@@ -11,4 +11,10 @@ echo $(uname -o) [$(uname -sr)]
 echo "Copyright (c) 2019 Maristocratic Communications. Few rights reserved."
 echo
 ```
-to bashrc for best experience
+to bashrc for best experience \n
+
+and also run
+```
+sudo ln -s /bin/clear /bin/cls
+```
+to get the funni cls command
