@@ -11,4 +11,4 @@ echo $(uname -o) [$(uname -sr)]
 echo "Copyright (c) 2019 Maristocratic Communications. Few rights reserved."
 echo
 ```
-for best experience
+to bashrc for best experience
